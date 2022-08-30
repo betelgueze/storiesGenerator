@@ -1,0 +1,20 @@
+This app is a binary tree editor where data of a node are ascii strings
+App can generate stories based on random traversal of a tree and there is a feature that adds insertions at the end of every tree node,
+trees are stored each in separate file in a folder "./trees/" and insertions are in folder "./vsuvky/"
+ every story and insertions file has tags and only insertions and stories with the same tag can be merged into a resulting story
+with button save you save current story into memory
+with button flush you save stories onto disk
+with buttom generate program generates a random story
+during generation there are multiple stories merged together so the resulting story is quite long
+ENJOY!
+
+Binary trees are stored each in separate file in a folder "./trees/"
+Insertions are in folder "./vsuvky/"
+each story and each insertion file has tags and only insertions and stories with the same tag can be merged into a resulting story
+with button save you save current story into memory
+with button flush you save stories onto disk
+with buttom generate program generates a random story
+during generation there are multiple stories merged together so the resulting story is quite long
+list of tags is on the right
+list of stories is in the middle
+story editor is on the left
